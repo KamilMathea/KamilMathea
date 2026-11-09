@@ -45,6 +45,18 @@
 
 ###
 
+<h2 data-importer="text" align="center">🌱 I’m currently learning</h2>
+
+###
+
+<div data-importer="techs" align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" height="65" alt="python logo"  />
+  <img width="16" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" height="65" alt="django logo"  />
+</div>
+
+###
+
 <h2 data-importer="text" align="center">📬 Connect with Me</h2>
 
 ###
